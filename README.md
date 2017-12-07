@@ -4,6 +4,8 @@
 
 # Connection Diagram:
 
+![rdl_4-20ma-current-loop-transmitter_8](https://user-images.githubusercontent.com/8509587/33700604-3e277a66-db40-11e7-9f15-42eb40a11ab8.jpg)
+
 If you have any Quiries, Questions or Concerns, please contact support@researchdesignlab.com
 
 For more details: https://researchdesignlab.com/4-20ma-current-loop-transmitters.html
