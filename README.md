@@ -5,6 +5,7 @@
 # Connection Diagram:
 
 ![rdl_4-20ma-current-loop-transmitter_8](https://user-images.githubusercontent.com/8509587/33700604-3e277a66-db40-11e7-9f15-42eb40a11ab8.jpg)
+![rdl_4-20ma-current-loop-transmitter_9](https://user-images.githubusercontent.com/8509587/33700722-ed92ffe8-db40-11e7-8028-dcd18ebd88e0.jpg)
 
 If you have any Quiries, Questions or Concerns, please contact support@researchdesignlab.com
 
